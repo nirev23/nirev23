@@ -64,6 +64,7 @@ LAN - прокладання ЛКМ, конфігурація мережевог
 
 Закінчив курс "Основи DevOps та Kubernetes у партнерстві з GlobalLogic" з відзнакою</br>
 Закінчив курс "Основи мереж" від "Cisco Networking Academy"</br>
+Закінчив курс "Мережеві пристрої та початкова конфігурація" від "Cisco Networking Academy"</br>
 Закінчив курс "IT Fundamentals - Basics of Computer Science" від Epam</br>
 
 
